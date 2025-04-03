@@ -1,0 +1,40 @@
+.separator {
+  margin: 16px 0;
+  width: 100%;
+  height: 2px;
+  background-color: var(--foreground);
+}
+
+.title {
+  font-family: Montserrat;
+  font-weight: 900;
+}
+
+.emoji {
+  font-family: 'Open Sans', Arial, sans-serif;
+}
+
+.subtext {
+  font-size: 1.1em;
+}
+
+.arch {
+  opacity: .05;
+  transition-duration: .3s;
+  cursor: pointer;
+}
+
+.arch::selection {
+  background-color: transparent;
+  color: transparent;
+}
+
+.arch:hover {
+  opacity: .5;
+}
+
+@media only screen and (max-width: 800px) {
+  .title, .subtext {
+    margin: 0 16px;
+  }
+}

@@ -1,0 +1,16 @@
+.link {
+  display: block;
+  padding: 8px;
+
+  border-radius: 8px;
+  border: 1px solid var(--foreground);
+
+  width: 42px;
+  height: 42px;
+
+  transition-duration: .3s;
+}
+
+.link:hover {
+  box-shadow: inset 0 0 12px var(--foreground);
+}
