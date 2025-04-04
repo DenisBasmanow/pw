@@ -13,19 +13,19 @@ function Main() {
         content={[
           {
             title: "AntiEvil",
-            description: "Discord bot for protecting servers.",
+            description: "Discord bot for protecting servers",
             img: aelogo.src,
             url: "https://weksoftware.ru/antievil"
           },
           {
             title: "weksoftware.ru",
-            description: "Website for a team of developers.",
+            description: "Website for a team of developers",
             img: wslogo.src,
             url: "https://weksoftware.ru"
           },
           {
             title: "weks.dev",
-            description: "Yet another website for weksoftware.",
+            description: "Yet another website for weksoftware",
             img: wslogo.src,
             url: "https://weks.dev"
           },
@@ -43,7 +43,7 @@ function Main() {
           },
           {
             title: "AntiEvil logs viewer",
-            description: "Lets you view saved Discord messages.",
+            description: "Lets you view saved Discord messages",
             img: toolslogo.src,
           },
         ]}

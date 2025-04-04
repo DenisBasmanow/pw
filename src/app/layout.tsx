@@ -15,7 +15,7 @@ const montserrat = Montserrat({
 export const metadata: Metadata = {
   title: "Denis | weksoftware",
   description: "Developer from frickin' weksoftware",
-  keywords: "antievil, antievil bot, antievil бот, антиевил, антиевил бот, supell, llespus, супел, супелл, лепус, ллепус, weksoftware, викасофта, denis_(<->_<->), denis.dev, denis_wsdev, rtwo2dtwo2, denis__, 405714652824338434, 808406127473197126, викасофт, виксофтваре",
+  keywords: "antievil, antievil bot, antievil бот, антиевил, антиевил бот, olutapa, oluttapa, olut tapa, olupata, supell, llespus, супел, супелл, лепус, ллепус, weksoftware, викасофта, denis_(<->_<->), denis.dev, denis_wsdev, rtwo2dtwo2, denis__, 405714652824338434, 808406127473197126, викасофт, виксофтваре",
   openGraph: {
     type: "website",
     title: "Denis",
